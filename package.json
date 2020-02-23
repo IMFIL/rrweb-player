@@ -16,7 +16,7 @@
     "svelte": "^2.16.0"
   },
   "dependencies": {
-    "rrweb": "github:imfil/rrweb#NoibuRRWeb"
+    "rrweb": "^0.7.27"
   },
   "scripts": {
     "build": "rollup -c",
